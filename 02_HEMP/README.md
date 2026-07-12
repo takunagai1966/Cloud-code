@@ -19,6 +19,12 @@
 - OEM（受託製造）
 - Factories（工場・製造委託先）
 
+## フォルダ構成
+
+| フォルダ | 内容 |
+|---|---|
+| `01_PRODUCTS/` | 商品マスタ（[AHUM_PRODUCT_MASTER_2026.xlsx](./01_PRODUCTS/AHUM_PRODUCT_MASTER_2026.xlsx)）、商品仕様 |
+
 ## 含める内容の例
 
 - 素材・生地の仕様、調達先情報

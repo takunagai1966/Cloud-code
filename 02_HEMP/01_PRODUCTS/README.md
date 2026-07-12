@@ -1,0 +1,18 @@
+# 01 商品 (Products)
+
+ヘンプ製品事業の商品マスタを管理するフォルダです。
+
+## 目的
+
+- 全カテゴリ（衣料・スウェット・寝具・下着・エプロン&タオル類）の商品情報・原価・想定上代を一元管理する。
+- 商品企画・価格設定・見積書作成の基礎データとして活用する。
+
+## 含める内容
+
+- [AHUM_PRODUCT_MASTER_2026.xlsx](./AHUM_PRODUCT_MASTER_2026.xlsx) — 商品マスタ本体（一次情報源）
+- [PRODUCT_MASTER_GUIDE.md](./PRODUCT_MASTER_GUIDE.md) — 上記Excelの読み方・運用ルールを解説したガイド
+
+## 注意事項
+
+- `AHUM_PRODUCT_MASTER_2026.xlsx` は本事業の商品情報における一次情報源（Source of Truth）である。編集は事業責任者の承認を得た上で行うこと。
+- 顧客ごとの個別割引率・取引条件はこのフォルダには含めず、[08_BUSINESS/01_CUSTOMERS](../../08_BUSINESS/01_CUSTOMERS/README.md) 側で管理する。
