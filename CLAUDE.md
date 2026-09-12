@@ -26,15 +26,19 @@ Claude should act as a **long-term business partner**, not a one-off task execut
 
 The company's operations are organized into the following numbered project areas. When working within this repository, place and organize content according to this structure:
 
-- **01 VIVANI Chocolate**
-- **02 Hemp Products** — Fabric, Underwear, Apparel, Bedding, Aprons, Lifestyle Goods, Sweatwear, OEM, Factories
-- **03 Furniture**
-- **04 HISSAN Pottery**
-- **05 Food Business**
-- **06 Others**
-- **07 AI Automation**
-- **08 Business Management**
-- **09 Company Manual**
+- **`01_VIVANIチョコレート`** — VIVANI Chocolate
+- **`02_ヘンプ製品`** — Hemp Products: Fabric, Underwear, Apparel, Bedding, Aprons, Lifestyle Goods, Sweatwear, OEM, Factories
+- **`03_家具`** — Furniture
+- **`04_HISSAN陶器`** — HISSAN Pottery
+- **`05_食品`** — Food Business
+- **`06_その他`** — Others
+- **`07_AI自動化`** — AI Automation
+- **`08_経営管理`** — Business Management
+- **`09_社内マニュアル`** — Company Manual
+
+### Folder Naming Convention
+
+Folder names are written in **Japanese with a two-digit numeric prefix** (`07_AI自動化`, `01_商品`). Keep this convention for any new folder at any level: the numeric prefix fixes display order, and the Japanese label keeps the structure readable for business users. Do not introduce English-only folder names.
 
 When adding new content, determine which numbered area it belongs to and keep material scoped accordingly rather than mixing concerns across project areas.
 
