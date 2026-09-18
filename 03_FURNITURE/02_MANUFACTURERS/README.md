@@ -9,7 +9,7 @@
 
 ## 含める内容の例
 
-- 製作パートナー候補リスト（[PARTNER_CANDIDATES.md](./PARTNER_CANDIDATES.md) を参照）
+- 製作パートナー・参考モデルの情報（[PARTNER_CANDIDATES.md](./PARTNER_CANDIDATES.md) を参照。デザインの参考モデルと、実際の製作パートナーは別に区別して記載する）
 - 打診・商談の記録
 - 見積・契約条件
 

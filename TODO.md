@@ -27,7 +27,7 @@
 
 - [x] 商品ラインナップの整備（システム家具ライン企画書を作成、[03_FURNITURE/01_PRODUCTS/SYSTEM_FURNITURE_CONCEPT.md](./03_FURNITURE/01_PRODUCTS/SYSTEM_FURNITURE_CONCEPT.md)）
 - [ ] システム家具ラインの未確定論点（モジュールグリッド・仕上げ）を代表と決定する
-- [ ] 石巻工房への打診（[03_FURNITURE/02_MANUFACTURERS/PARTNER_CANDIDATES.md](./03_FURNITURE/02_MANUFACTURERS/PARTNER_CANDIDATES.md) の打診メール案を送付、NDA締結後に限る）
+- [ ] マレーシアの製作パートナーの詳細情報（正式名称・所在地・専門分野等）を確認・整理する（[03_FURNITURE/02_MANUFACTURERS/PARTNER_CANDIDATES.md](./03_FURNITURE/02_MANUFACTURERS/PARTNER_CANDIDATES.md)）
 
 ### シリーズ2（真鍮＋スチールポール＋スチール板、USM Haller次世代版）
 

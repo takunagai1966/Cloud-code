@@ -33,7 +33,8 @@
 |---|---|---|
 | 素材 | 合板 ＋ ジョイント（カムロック等） | 真鍮（ジョイント）＋ スチールポール ＋ スチール板 |
 | ポジション | USM Haller を合板と日本のものづくりで再解釈 | USM Haller の次世代版（独自ジョイントで特許取得を目指す） |
-| 製作パートナー候補 | 石巻工房 | 未定 |
+| 製作パートナー | マレーシアの会社（詳細確認中） | 未定 |
+| 参考モデル（製作パートナーではない） | 石巻工房 | — |
 | 詳細資料 | [01_PRODUCTS/SYSTEM_FURNITURE_CONCEPT.md](./01_PRODUCTS/SYSTEM_FURNITURE_CONCEPT.md) | [03_JOINT_PATENT_RND/USM_JOINT_ANALYSIS_AND_NEXT_GEN_CONCEPT.md](./03_JOINT_PATENT_RND/USM_JOINT_ANALYSIS_AND_NEXT_GEN_CONCEPT.md) |
 | 特許出願の予定 | なし | あり（ジョイント金具、出願前は社外共有NDA必須） |
 
