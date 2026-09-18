@@ -1,0 +1,58 @@
+<svg viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <rect x="0" y="0" width="900" height="340" fill="#FBF7EF"/>
+  <text x="450" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#2A2420">新規ジョイント コンセプトA — 分解図（展開図）</text>
+
+  <!-- assembly axis -->
+  <line x1="210" y1="215" x2="800" y2="215" stroke="#2A2420" stroke-opacity=".3" stroke-width="1.5" stroke-dasharray="6 5"/>
+
+  <!-- detent spring + ball (exploded above node) -->
+  <path d="M210,72 L216,80 L204,88 L216,96 L204,104 L216,112 L210,120" fill="none" stroke="#8A9296" stroke-width="2"/>
+  <circle cx="210" cy="128" r="8" fill="#CBD1D3" stroke="#7A8286" stroke-width="1.5"/>
+  <line x1="210" y1="136" x2="210" y2="172" stroke="#7A6D5C" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- node body -->
+  <rect x="60" y="140" width="150" height="150" rx="22" fill="#3E5C4E" stroke="#233B31" stroke-width="2"/>
+  <rect x="66" y="146" width="138" height="24" rx="12" fill="#5C8271" opacity=".55"/>
+  <rect x="66" y="258" width="138" height="24" rx="12" fill="#233B31" opacity=".5"/>
+  <circle cx="210" cy="215" r="40" fill="#1B2A24" stroke="#152119" stroke-width="2"/>
+  <path d="M236,193 A40,40 0 0 1 236,237" fill="none" stroke="#F2E9DA" stroke-width="3" opacity=".8"/>
+  <circle cx="210" cy="176" r="6" fill="#152119" stroke="#0F1712" stroke-width="1"/>
+
+  <!-- gap 1 arrow: node <- cam fitting -->
+  <line x1="248" y1="215" x2="222" y2="215" stroke="#2A2420" stroke-width="2" marker-end="url(#arrow-exp)"/>
+  <text x="235" y="150" text-anchor="middle" font-size="13" font-weight="700" fill="#2A2420">①</text>
+  <path d="M228,195 A26,26 0 1 1 228,235" fill="none" stroke="#8FC3AB" stroke-width="2.5" marker-end="url(#arrow-exp)"/>
+  <text x="235" y="105" text-anchor="middle" font-size="12" fill="#233B31">③ 90°回転してロック</text>
+
+  <!-- cam-pin end fitting -->
+  <rect x="260" y="185" width="60" height="60" rx="14" fill="#3E5C4E" stroke="#233B31" stroke-width="2"/>
+  <rect x="264" y="189" width="52" height="10" rx="6" fill="#5C8271" opacity=".5"/>
+  <circle cx="320" cy="215" r="14" fill="#8FC3AB" stroke="#233B31" stroke-width="1.5"/>
+  <line x1="320" y1="215" x2="330" y2="207" stroke="#233B31" stroke-width="2"/>
+
+  <!-- gap 2 arrow: fitting <- tube -->
+  <line x1="368" y1="215" x2="336" y2="215" stroke="#2A2420" stroke-width="2" marker-end="url(#arrow-exp)"/>
+  <text x="352" y="150" text-anchor="middle" font-size="13" font-weight="700" fill="#2A2420">②</text>
+
+  <!-- tube -->
+  <rect x="380" y="195" width="420" height="40" rx="20" fill="#D7DBDC" stroke="#8A9296" stroke-width="2"/>
+  <rect x="384" y="199" width="412" height="8" rx="4" fill="#F3F5F5" opacity=".9"/>
+  <rect x="384" y="223" width="412" height="8" rx="4" fill="#9AA3A6" opacity=".6"/>
+
+  <!-- labels -->
+  <text x="60" y="118" font-size="12" fill="#2A2420">ノード本体</text>
+  <text x="300" y="58" text-anchor="middle" font-size="12" fill="#2A2420">ロック検知ディテント（バネ+ボール）</text>
+  <text x="290" y="300" text-anchor="middle" font-size="12" fill="#2A2420">カムピン・エンドフィッティング</text>
+  <text x="290" y="316" text-anchor="middle" font-size="11" fill="#7A6D5C">（チューブに圧入・ろう付けで固定）</text>
+  <line x1="290" y1="292" x2="290" y2="247" stroke="#7A6D5C" stroke-width="1"/>
+  <text x="590" y="300" text-anchor="middle" font-size="12" fill="#2A2420">チューブ</text>
+  <line x1="590" y1="292" x2="590" y2="237" stroke="#7A6D5C" stroke-width="1"/>
+
+  <text x="890" y="330" text-anchor="end" font-size="10" fill="#7A6D5C">※開発中の概念レンダリングであり、実際の製品・写真ではありません</text>
+
+  <defs>
+    <marker id="arrow-exp" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2A2420"/>
+    </marker>
+  </defs>
+</svg>
