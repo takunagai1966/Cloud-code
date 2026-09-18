@@ -2,10 +2,19 @@
 
 シリーズ1（合板＋ジョイント）について、**製作パートナー**と**参考モデル（デザイン・思想の参考であり、製作委託先ではない）**を分けて記載する。
 
-## 製作パートナー: マレーシアの会社（詳細確認中）
+## 製作パートナー: Takashima Woodwork Sdn. Bhd.（要確認）
 
-- **ステータス**: 会社名・所在地・専門分野など詳細情報を確認中。
-- 詳細（正式名称、所在地、連絡先、専門分野・実績、価格レンジ、リードタイム等）が分かり次第、このセクションに追記する。
+> ⚠️ 「Takashima」という名称からウェブ検索で該当しそうな会社を見つけたが、**代表が意図している会社と同一か未確認**。会社名・所在地など下記内容に間違いがないか確認すること。
+
+| 項目 | 内容（ウェブ検索による一般情報、要確認） |
+|---|---|
+| 正式名称 | Takashima Woodwork Sdn. Bhd. |
+| 所在地 | マレーシア・ペラ州プシン（Pusing, Perak） |
+| 設立 | 1992年 |
+| 事業内容 | 木製家具の製造。こたつ・座卓・リビングテーブル・学習机・椅子などが主力製品で、主に日本市場向け |
+| 規模 | 従業員270〜350名程度、敷地約4エーカー（工場約5,371㎡・倉庫約480㎡） |
+| 検討理由 | 木製家具専門で日本市場向けの実績があり、シリーズ1（合板＋ジョイント）の製作パートナーとして符合する |
+| ステータス | 詳細確認中（連絡先・現在の取引状況・接合金物を用いた什器の製作実績・価格レンジ・リードタイム等は未確認） |
 
 ## 参考モデル: 石巻工房 (Ishinomaki Laboratory)
 
@@ -37,7 +46,10 @@
 
 ## 参考情報源
 
+- [TAKASHIMA WOODWORK SDN. BHD.（企業情報）](https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0238789W/TAKASHIMA-WOODWORK-SDN-BHD-)
+- [Takashima Woodwork Sdn. Bhd. Company Profile – EMIS](https://www.emis.com/php/company-profile/MY/Takashima_Woodwork_Sdn_Bhd_en_4190907.html)
+- [Takashima Woodwork – Jobstreet 企業ページ](https://my.jobstreet.com/companies/takashima-woodwork-168553489017525)
 - [石巻工房 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%BB%E5%B7%A5%E6%88%BF)
 - [Ishinomaki Laboratory | KEIJI ASHIZAWA DESIGN](https://keijidesign.com/en/works/ishinomaki-lab/)
 
-> 上記の石巻工房に関する情報はウェブ検索による一般情報。
+> 上記の情報はいずれもウェブ検索による一般情報であり、一次確認（会社への直接連絡等）が必要。
