@@ -21,7 +21,9 @@
 
 ## 03 Furniture
 
-- [ ] 商品ラインナップの整備
+- [x] 商品ラインナップの整備（システム家具ライン企画書を作成、[03_FURNITURE/01_PRODUCTS/SYSTEM_FURNITURE_CONCEPT.md](./03_FURNITURE/01_PRODUCTS/SYSTEM_FURNITURE_CONCEPT.md)）
+- [ ] システム家具ラインの未確定論点（ジョイントの見せ方・モジュールグリッド・仕上げ）を代表と決定する
+- [ ] 石巻工房への打診（[03_FURNITURE/02_MANUFACTURERS/PARTNER_CANDIDATES.md](./03_FURNITURE/02_MANUFACTURERS/PARTNER_CANDIDATES.md) の打診メール案を送付）
 
 ## 04 HISSAN Pottery
 
