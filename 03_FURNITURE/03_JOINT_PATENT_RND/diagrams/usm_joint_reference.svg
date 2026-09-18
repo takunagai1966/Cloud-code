@@ -1,0 +1,52 @@
+<svg viewBox="0 0 520 260" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <rect x="0" y="0" width="520" height="260" fill="#FBF7EF"/>
+  <text x="260" y="24" text-anchor="middle" font-size="15" font-weight="700" fill="#2A2420">USM Haller ジョイント断面（分析用模式図）</text>
+
+  <!-- ball -->
+  <circle cx="140" cy="140" r="55" fill="#CBD1D3" stroke="#8A9296" stroke-width="2"/>
+  <rect x="140" y="128" width="30" height="24" fill="#9AA3A6" stroke="#8A9296" stroke-width="1"/>
+  <line x1="144" y1="131" x2="152" y2="149" stroke="#7A8286" stroke-width="1"/>
+  <line x1="150" y1="131" x2="158" y2="149" stroke="#7A8286" stroke-width="1"/>
+  <line x1="156" y1="131" x2="164" y2="149" stroke="#7A8286" stroke-width="1"/>
+  <line x1="162" y1="131" x2="169" y2="149" stroke="#7A8286" stroke-width="1"/>
+
+  <!-- assembly arrow -->
+  <line x1="196" y1="140" x2="226" y2="140" stroke="#2A2420" stroke-width="2" marker-end="url(#arrow-usm)"/>
+  <text x="212" y="126" text-anchor="middle" font-size="11" fill="#2A2420">差し込み・ねじ込み</text>
+
+  <!-- tube -->
+  <rect x="230" y="120" width="220" height="40" rx="6" fill="#D7DBDC" stroke="#8A9296" stroke-width="2"/>
+  <rect x="234" y="126" width="212" height="28" fill="#FBF7EF" stroke="#8A9296" stroke-width="1"/>
+
+  <!-- expanding sleeve -->
+  <rect x="248" y="128" width="24" height="24" rx="3" fill="#9AA3A6" stroke="#4A453F" stroke-width="1.5"/>
+  <line x1="256" y1="128" x2="256" y2="152" stroke="#4A453F" stroke-width="1"/>
+  <line x1="264" y1="128" x2="264" y2="152" stroke="#4A453F" stroke-width="1"/>
+  <path d="M244,134 L236,128" stroke="#4A453F" stroke-width="1.5" marker-end="url(#arrow-usm)"/>
+  <path d="M244,146 L236,152" stroke="#4A453F" stroke-width="1.5" marker-end="url(#arrow-usm)"/>
+
+  <!-- bolt rod -->
+  <line x1="272" y1="140" x2="436" y2="140" stroke="#6B6560" stroke-width="4"/>
+  <rect x="436" y="132" width="14" height="16" fill="#4A453F" stroke="#2A2420" stroke-width="1"/>
+
+  <!-- labels -->
+  <text x="70" y="60" font-size="12" fill="#2A2420">ボール（6方向ねじ穴、クロームメッキ真鍮）</text>
+  <line x1="115" y1="64" x2="118" y2="92" class="leader" stroke="#7A6D5C" stroke-width="1"/>
+
+  <text x="340" y="98" text-anchor="middle" font-size="12" fill="#2A2420">チューブ（クロームメッキスチール）</text>
+  <line x1="340" y1="102" x2="340" y2="120" stroke="#7A6D5C" stroke-width="1"/>
+
+  <text x="260" y="210" text-anchor="middle" font-size="12" fill="#2A2420">内部拡張スリーブ</text>
+  <line x1="260" y1="206" x2="260" y2="154" stroke="#7A6D5C" stroke-width="1"/>
+
+  <text x="443" y="210" text-anchor="middle" font-size="12" fill="#2A2420">ボルト（六角レンチで締結）</text>
+  <line x1="443" y1="206" x2="443" y2="150" stroke="#7A6D5C" stroke-width="1"/>
+
+  <text x="510" y="252" text-anchor="end" font-size="10" fill="#7A6D5C">※分析用・模式図</text>
+
+  <defs>
+    <marker id="arrow-usm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2A2420"/>
+    </marker>
+  </defs>
+</svg>
