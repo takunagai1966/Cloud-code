@@ -21,12 +21,20 @@
 
 ## 03 Furniture
 
+システム家具ラインは**シリーズ1（合板＋ジョイント）**と**シリーズ2（真鍮＋スチールポール＋スチール板）**の独立した2系統。詳細は [03_FURNITURE/README.md](./03_FURNITURE/README.md) 参照。
+
+### シリーズ1（合板＋ジョイント）
+
 - [x] 商品ラインナップの整備（システム家具ライン企画書を作成、[03_FURNITURE/01_PRODUCTS/SYSTEM_FURNITURE_CONCEPT.md](./03_FURNITURE/01_PRODUCTS/SYSTEM_FURNITURE_CONCEPT.md)）
 - [ ] システム家具ラインの未確定論点（モジュールグリッド・仕上げ）を代表と決定する
 - [ ] 石巻工房への打診（[03_FURNITURE/02_MANUFACTURERS/PARTNER_CANDIDATES.md](./03_FURNITURE/02_MANUFACTURERS/PARTNER_CANDIDATES.md) の打診メール案を送付、NDA締結後に限る）
+
+### シリーズ2（真鍮＋スチールポール＋スチール板、USM Haller次世代版）
+
 - [x] USM Hallerジョイントの技術分析・次世代ジョイント候補の整理（[03_FURNITURE/03_JOINT_PATENT_RND/USM_JOINT_ANALYSIS_AND_NEXT_GEN_CONCEPT.md](./03_FURNITURE/03_JOINT_PATENT_RND/USM_JOINT_ANALYSIS_AND_NEXT_GEN_CONCEPT.md)）
 - [ ] 弁理士へ相談し、新規ジョイント（案A: クォーターターン・カム方式）の先行技術調査を依頼する
-- [ ] 新規ジョイントの3Dプリントモックアップで動作検証する
+- [ ] 真鍮製ノードの3Dプリント／削り出しモックアップで動作検証する
+- [ ] 製作委託先（真鍮・スチール加工）の候補選定
 
 ## 04 HISSAN Pottery
 

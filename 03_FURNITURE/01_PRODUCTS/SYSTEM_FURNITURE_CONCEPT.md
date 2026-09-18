@@ -4,9 +4,8 @@
 
 - **起票日**: 2026-09-18
 - **想定製作パートナー**: 石巻工房（Ishinomaki Laboratory / 宮城県石巻市） https://ishinomaki-lab.org/
-- **ステータス**: 企画初期検討（打診前）／方針更新あり（下記参照）
-
-> ℹ️ **方針更新（2026-09-18）**: 主構造を USM Haller と同じ「チューブ＋ノード」フレーム方式に転換し、ノード部分は独自開発・特許出願を目指す方向にアップデートした。詳細は [../03_JOINT_PATENT_RND/USM_JOINT_ANALYSIS_AND_NEXT_GEN_CONCEPT.md](../03_JOINT_PATENT_RND/USM_JOINT_ANALYSIS_AND_NEXT_GEN_CONCEPT.md) を参照。本ドキュメントの合板パネル×カムロックという素材・接合の方向性（5章）は、フレームに掛ける天板・棚板・パネル面材の検討として引き続き有効。
+- **ステータス**: 企画初期検討（打診前）
+- **位置づけ**: システム家具ラインの**シリーズ1（合板＋ジョイント）**。素材・構造がまったく異なる**シリーズ2（真鍮＋スチールポール＋スチール板）**は別ドキュメント（[../03_JOINT_PATENT_RND/USM_JOINT_ANALYSIS_AND_NEXT_GEN_CONCEPT.md](../03_JOINT_PATENT_RND/USM_JOINT_ANALYSIS_AND_NEXT_GEN_CONCEPT.md)）で個別に検討する。**2つのシリーズは独立しており、本ドキュメントの素材（合板）をシリーズ2に転用することはない。** 全体像は [../README.md](../README.md) の「シリーズ1・シリーズ2について」を参照。
 
 ## 1. 背景・きっかけ
 
