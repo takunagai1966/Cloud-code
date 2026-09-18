@@ -129,9 +129,34 @@ USM の「ねじ込み式ボール＋内部拡張スリーブ」とは異なる�
 - 実際の金額は3D CADの詳細図面が完成してから、金型メーカーに複数社見積もり（相見積もり）を依頼して初めて分かる。
 - いきなり金型に投資せず、まず3Dプリント・削り出し（CNC）による試作（1個あたり数千〜数万円程度）で「差し込んで90°回して固定する」動作を検証してから金型化する順番を推奨する（7章の次のアクションを参照）。
 
+## 9. 強度に関する見立て（1棚あたり20kgについて）
+
+### 9.1 比較の基準: USM Haller の公式仕様
+
+- USM の1区画（棚1マス）は、均等荷重であれば約75kgまで対応する。
+- ただし金属棚板単体（750×500mm以下）の面荷重上限は50kg。
+- 30kgを超える集中荷重、または50kgを超える分布荷重がかかる場合は、USM純正の補強プロファイルの併用が必要になる。
+
+### 9.2 現時点の見立て
+
+- USM の基準（1区画あたり75kg、棚板単体50kg）と比べると、**1棚あたり20kgという数字自体はかなり余裕のある目標値**であり、達成できる可能性は高いと考えられる。
+- 合板（想定18〜24mm厚程度）は、同程度の厚みの鋼板よりもたわみに強い場合があり、棚板そのものが20kgで問題になる可能性は低い。
+- この手のチューブ＋ノード構造で弱点になりやすいのは、棚板そのものより**ジョイント部分の曲げ剛性・カムの噛み合い強度**である。
+
+### 9.3 現時点で断言できないこと
+
+**新規ジョイント（コンセプトA）は、まだ強度計算（FEA等）も試作での荷重試験も行っていないため、「確実に20kgを超える」と保証できる段階ではない。** ジョイントの曲げ剛性・カム部の噛み合い強度が最終的なボトルネックになる可能性が高く、試作 → 破壊試験での確認が必須。
+
+### 9.4 次にできること
+
+- 棚の想定寸法（幅・奥行き）と合板の厚みが分かれば、梁理論による簡易たわみ計算で「棚板単体としては何kgまで安全か」の目安を概算できる。
+- ジョイント自体の強度は簡易計算である程度の見立ては出せるが、最終的な安全率の確認には試作品での荷重試験（破壊試験）が必要（7章の次のアクションに対応）。
+
 ## 参考情報源
 
 - [USM Haller System（USM 公式）](https://www.usm.com/ja-jp/collections/usm-haller-system)
+- [USM Haller Specifications（USM公式・技術仕様PDF）](https://cms.usm.com/media/14dhic3x/usm_haller_specifications_en.pdf)
+- [USM Haller Furniture FAQ（耐荷重に関するFAQ） – smow](https://www.smow.com/usm-haller/faq)
 - [Our Story | USM（USM公式・沿革）](https://www.usm.com/en/about/our-story)
 - [smow: USM Haller Boardsysteme（技術解説PDF）](https://www.smow.de/pdf/USM_Haller_Boardsysteme_en.pdf)
 - [Anatomy of a Classic: USM Haller Modular Furniture | Valet.](https://valetmag.com/living/interiors/2024/usm-haller-modular-furniture-anatomy-of-a-classic-061224.php)
