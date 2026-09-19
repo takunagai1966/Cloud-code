@@ -10,5 +10,5 @@
 ## 含める内容の例
 
 - 提案書の内容と条件の分析（[DESIGNER_PROPOSAL_ANALYSIS.md](./DESIGNER_PROPOSAL_ANALYSIS.md) を参照）
-- 契約書ドラフト・締結記録
+- 契約書ドラフト・締結記録（川合裕介様〈K MANUFACTORY〉分: [CONTRACT_DRAFT_KAWAI.md](./CONTRACT_DRAFT_KAWAI.md)）
 - ロイヤリティ・支払いの実績記録
