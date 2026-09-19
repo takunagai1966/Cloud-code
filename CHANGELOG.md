@@ -2,6 +2,10 @@
 
 このリポジトリに対する主な変更履歴を記録します。
 
+## 2026-09-19
+
+- デザイナー提案の内訳を訂正: ②が「商品開発・ビジュアル開発 50万円×2モデル」であることが判明し、初期開発費200万円＋ロイヤリティ3%でシリーズ1・シリーズ2の2モデルとも最後まで仕上げてもらえることが確定（[DESIGNER_PROPOSAL_ANALYSIS.md](./03_FURNITURE/04_DESIGN_CONTRACT/DESIGNER_PROPOSAL_ANALYSIS.md)）
+
 ## 2026-09-18（続き2）
 
 - 03_FURNITURE に `04_DESIGN_CONTRACT/` フォルダを新設。デザイナーからの提案（初期開発費200万円・ロイヤリティ3%）と、代表案（頭金なし・ロイヤリティ5%）を損益分岐点（累計売上約1億円）で比較分析し、長期的には提案通り3%を維持する方が有利になり得ることを整理（[DESIGNER_PROPOSAL_ANALYSIS.md](./03_FURNITURE/04_DESIGN_CONTRACT/DESIGNER_PROPOSAL_ANALYSIS.md)）。ロイヤリティ算定基準の明記とシリーズ2の知財帰属条項を契約に盛り込むことを優先課題として記録
