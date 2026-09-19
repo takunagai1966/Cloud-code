@@ -5,7 +5,7 @@
 ## 2026-09-19
 
 - デザイナー川合裕介様（K MANUFACTORY）とのシステム家具ライン開発条件（初期開発費200万円・ロイヤリティ3%〈卸価格〉・分割支払いスケジュール）がメールで合意に至ったことを記録
-- 業務委託契約書のドラフトを作成（[CONTRACT_DRAFT_KAWAI.md](./03_FURNITURE/04_DESIGN_CONTRACT/CONTRACT_DRAFT_KAWAI.md)）。シリーズ2の特許出願との関係で知的財産権条項が未確定である旨を明記し、署名前の弁護士レビューを推奨事項として記載
+- 業務委託契約書のドラフトを作成（[CONTRACT_DRAFT_KAWAI.md](./03_FURNITURE/04_DESIGN_CONTRACT/CONTRACT_DRAFT_KAWAI.md)）。当初は知的財産権条項を未確定としていたが、発明・意匠・著作権等（本知的財産権）をahum.organicsに帰属させ、その対価はロイヤリティに含める形で第6条を確定。署名前の弁護士レビューは引き続き推奨事項として記載
 
 - デザイナー提案の内訳を訂正: ②が「商品開発・ビジュアル開発 50万円×2モデル」であることが判明し、初期開発費200万円＋ロイヤリティ3%でシリーズ1・シリーズ2の2モデルとも最後まで仕上げてもらえることが確定（[DESIGNER_PROPOSAL_ANALYSIS.md](./03_FURNITURE/04_DESIGN_CONTRACT/DESIGNER_PROPOSAL_ANALYSIS.md)）
 

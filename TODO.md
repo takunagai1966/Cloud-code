@@ -41,9 +41,10 @@
 - [x] デザイナーからの提案（初期開発費200万円・ロイヤリティ3%）の妥当性を分析（[03_FURNITURE/04_DESIGN_CONTRACT/DESIGNER_PROPOSAL_ANALYSIS.md](./03_FURNITURE/04_DESIGN_CONTRACT/DESIGNER_PROPOSAL_ANALYSIS.md)）
 - [x] デザイナーへ返信・条件確定（着手金50万円、開発進捗・各シリーズ発売決定時の分割払い、ロイヤリティ3%〈卸価格〉）
 - [x] 契約書ドラフトを作成（[03_FURNITURE/04_DESIGN_CONTRACT/CONTRACT_DRAFT_KAWAI.md](./03_FURNITURE/04_DESIGN_CONTRACT/CONTRACT_DRAFT_KAWAI.md)）
+- [x] 知的財産権の帰属をahum.organicsとする条項を契約書に反映（対価はロイヤリティに含む）
 - [ ] 契約書ドラフトを弁護士等にレビューしてもらう
-- [ ] 知的財産権の帰属について川合様と協議し、覚書として確定する（シリーズ2の設計本格化前に必須）
-- [ ] NDA／知財覚書を締結してからシリーズ2の詳細情報を共有する
+- [ ] 知的財産権の条項について川合様と最終確認する
+- [ ] シリーズ2の詳細情報を共有する前にNDA（別途）を締結する
 - [ ] 契約書の未確定事項（乙の住所、支払期日の日数、管轄裁判所等）を確認・補完する
 
 ## 04 HISSAN Pottery
